@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "789c",
+      "name": "Monitor Gamer",
+      "description": "Monitor Gamer",
+      "price": "23423",
+      "inStock": true
+    },
+    {
+      "id": "1ff4",
+      "name": "Laptop Gamer",
+      "description": "Laptop Gamer",
+      "price": "12312",
+      "inStock": true
+    },
+    {
+      "id": "43a1",
+      "name": "asd",
+      "description": "",
+      "price": "",
+      "inStock": false
+    }
+  ]
+}
